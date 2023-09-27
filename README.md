@@ -1,3 +1,4 @@
+
 # Lab 2:  Computing the Day of the Week
 
 Collaboration: *enter names of others you worked with*
@@ -23,5 +24,3 @@ When imported, it provides three functions:
                                and timezone specificed by offset in hours
 			       (Williamstown = -5)
  * dayOfWeek(wday) - returns wday as str: 0 => 'Sunday', 1 => 'Monday', etc
-
-
